@@ -60,7 +60,7 @@ The top section of the dashboard provides a high-level view of:
 - Total customer count
 - Average order value
 - Month-over-month performance
-
+![Monthly Sales Performance Dashboard](monthly_sales_dashboard_product_performance_details)
 ### Regional Performance Analysis
 
 The regional performance table compares:
@@ -70,10 +70,10 @@ The regional performance table compares:
 - Average order value
 - Month-over-month changes
 - Regional contribution to total performance
-
+![Monthly Sales Performance Dashboard](monthly_sales_dashboard_regional_sales_trend)
 Conditional formatting and data bars make it easier to identify strong and weak performance areas.
 
-### Product Performance Analysis
+### Product Performance Analysis 
 
 The product-level section evaluates:
 
