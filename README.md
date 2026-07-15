@@ -60,7 +60,8 @@ The top section of the dashboard provides a high-level view of:
 - Total customer count
 - Average order value
 - Month-over-month performance
-![Monthly Sales Performance Dashboard](monthly_sales_dashboard_product_performance_details)
+![Monthly Sales Performance Dashboard](monthly_sales_dashboard_regional_sale_performance)
+
 ### Regional Performance Analysis
 
 The regional performance table compares:
@@ -70,7 +71,7 @@ The regional performance table compares:
 - Average order value
 - Month-over-month changes
 - Regional contribution to total performance
-![Monthly Sales Performance Dashboard](monthly_sales_dashboard_regional_sales_trend)
+
 Conditional formatting and data bars make it easier to identify strong and weak performance areas.
 
 ### Product Performance Analysis 
@@ -82,7 +83,7 @@ The product-level section evaluates:
 - Customer count
 - Average order value
 - Month-over-month growth
-
+![Monthly Sales Performance Dashboard](monthly_sales_dashboard_product_performance_details)
 This view helps identify which product groups contribute the most revenue and customer activity.
 
 ### Daily Sales Trend
@@ -93,7 +94,8 @@ The daily trend chart shows changes in sales activity throughout the month and h
 - Low-performance periods
 - Daily fluctuations
 - Product-level contribution over time
-
+![Monthly Sales Performance Dashboard](monthly_sales_dashboard_regional_sales_trend)
+![Monthly Sales Performance Dashboard](monthly_sales_dashboard_product_sales_trend)
 ## Data Preparation
 
 The reporting process included:
